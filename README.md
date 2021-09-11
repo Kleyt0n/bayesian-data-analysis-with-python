@@ -1,2 +1,2 @@
-# bayesian-data-analysis-with-python
+# Bayesian Data Analysis with Python
  
